@@ -60,3 +60,11 @@
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+
+
+## 📊 GitHub Stats
+
+![Streak](https://streak-stats.demolab.com?user=sayantikadey&theme=tokyonight&hide_border=true)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=sayantikadey&theme=tokyo-night)
